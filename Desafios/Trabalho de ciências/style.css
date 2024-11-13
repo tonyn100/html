@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+Body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    background-image: url(imagem-de-fundo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 30px;
+    font-size: 3em;
+    font-style: italic;
+    background-color: rgb(0, 0, 0);
+    width: 650px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    font-size: 25px;
+    font-style: italic;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+p {
+    background-color: lightgray;
+    width: 550px;
+    padding: 15px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: justify;
+    font-style: oblique;
+}
+
+h2#topicos {
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
