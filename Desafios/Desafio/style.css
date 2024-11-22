@@ -4,7 +4,7 @@ Body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: black;
-    background-image: url(imagem-de-fundo.jpg);
+    background-image: url(orea\ seca2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,4 +58,13 @@ footer {
     color: white;
     text-align: center;
     padding: 1px;
+}
+
+img {
+    padding: 15px;
+}
+
+img#meme {
+    padding: 10px;
+    width: 250px;
 }
